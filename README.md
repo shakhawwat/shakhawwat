@@ -421,6 +421,43 @@ A major area of my engineering experience is developing **multi-tenant SaaS appl
 | **Architecture**       | Multi-Tenant SaaS, RBAC, Tenant Isolation, AI Agents |
 
 ---
+# 📚 Publications
+
+## 1. TransNet: Deep Attentional Hybrid Transformer for Arabic Posts Classification
+
+- **Journal:** IEEE Access
+- **Year:** 2024
+- **Research Area:** Natural Language Processing, Transformer Models, Arabic NLP, Deep Learning, Attention Mechanisms, Text Classification
+
+---
+
+## 2. EmoNet: Deep Attentional Recurrent CNN for X (formerly Twitter) Emotion Classification
+
+- **Journal:** IEEE Access
+- **Year:** 2025
+- **Research Area:** Emotion Classification, NLP, Attention Mechanisms, CNN, Recurrent Neural Networks, Deep Learning
+
+---
+
+## 3. Fusing Transformer-XL with Bi-Directional Recurrent Networks for Cyberbullying Detection
+
+- **Journal:** PeerJ Computer Science
+- **Volume:** 11
+- **Article:** e2940
+- **Year:** 2025
+- **Research Area:** Transformer-XL, Cyberbullying Detection, NLP, BiLSTM, BiGRU, Deep Learning, Text Classification
+
+---
+
+# 🏆 Awards & Achievements
+
+| Achievement | Competition / Organization | Level |
+| ---------------------------- | ------------------------------------------------------------ | ----------------------------- |
+| 🥇 **Gold Medalist** | World Invention Competition and Exhibition (**WICE**) | International |
+| 🥇 **Gold Medalist** | International Science and Invention Fair (**ISIF**) | National Level |
+| 🥉 **Bronze Medalist** | International Science and Invention Fair (**ISIF**) | International Level |
+| 🏅 **International Special Award** | Indonesian Young Scientist Association (**IYSA**) | International |
+| 🏆 **Champion** | **IEEE BECITHCON 2025** | Technology & Innovation Competition |
 
 # ⭐ Primary Engineering Stack
 
